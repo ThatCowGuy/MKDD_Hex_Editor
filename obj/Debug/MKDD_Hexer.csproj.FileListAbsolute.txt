@@ -1,0 +1,10 @@
+C:\Users\cray4\source\repos\MKDD_Hexer\bin\Debug\MKDD_Hexer.exe.config
+C:\Users\cray4\source\repos\MKDD_Hexer\bin\Debug\MKDD_Hexer.exe
+C:\Users\cray4\source\repos\MKDD_Hexer\bin\Debug\MKDD_Hexer.pdb
+C:\Users\cray4\source\repos\MKDD_Hexer\obj\Debug\MKDD_Hexer.csproj.AssemblyReference.cache
+C:\Users\cray4\source\repos\MKDD_Hexer\obj\Debug\MKDD_Hexer.Form1.resources
+C:\Users\cray4\source\repos\MKDD_Hexer\obj\Debug\MKDD_Hexer.Properties.Resources.resources
+C:\Users\cray4\source\repos\MKDD_Hexer\obj\Debug\MKDD_Hexer.csproj.GenerateResource.cache
+C:\Users\cray4\source\repos\MKDD_Hexer\obj\Debug\MKDD_Hexer.csproj.CoreCompileInputs.cache
+C:\Users\cray4\source\repos\MKDD_Hexer\obj\Debug\MKDD_Hexer.exe
+C:\Users\cray4\source\repos\MKDD_Hexer\obj\Debug\MKDD_Hexer.pdb

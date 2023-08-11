@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MKDD_Hexer", "MKDD_Hexer.csproj", "{B9693850-F6CF-42B7-8F7A-AC243C728EBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9693850-F6CF-42B7-8F7A-AC243C728EBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9693850-F6CF-42B7-8F7A-AC243C728EBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9693850-F6CF-42B7-8F7A-AC243C728EBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9693850-F6CF-42B7-8F7A-AC243C728EBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2DE732A-2252-4C00-AD57-72E2CB8AD753}
+	EndGlobalSection
+EndGlobal
